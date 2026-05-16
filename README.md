@@ -3,6 +3,8 @@ this is library's of full motivation for growth your mindset
 
 # how to install on termux? 
 
+$ git clone https://github.com/Santri-Coder/Mylib
+
 $ cd Mylib
 
 $ ls
